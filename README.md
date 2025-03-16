@@ -43,8 +43,6 @@ npm start
 3. If an input is invalid, an error message will appear.
 4. On successful validation, the form can be submitted.
 
-## 📷 Screenshots
-(Add screenshots of your form validation UI here)
 
 ## 🔧 Customization
 You can modify the validation rules inside the `validate.js` or directly within the component handling form submission.
